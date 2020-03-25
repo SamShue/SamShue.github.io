@@ -3,7 +3,7 @@ layout: post
 title: Differential Drive Robot Kinematics
 ---
 
-<iframe src ="https://github.com/SamShue/Differential-Drive-Robot-Motion/blob/development/README.md">
+<iframe src ="https://raw.githubusercontent.com/SamShue/Differential-Drive-Robot-Motion/master/README.md">
          Sorry your browser does not support inline frames.
 </iframe>
 
